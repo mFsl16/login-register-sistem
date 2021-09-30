@@ -14,7 +14,7 @@
 	<name>loginsistem</name>
 	<description>Login and register with email verification </description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
